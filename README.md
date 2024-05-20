@@ -1,2 +1,5 @@
 # KaryaSuchi_App
-This is KaryaSuchi App (ToDo List) made by using Flutter.
+This is the KaryaSuchi App (ToDo List) made by using Flutter.
+
+Things You Can Do:
+
